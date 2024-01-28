@@ -1,3 +1,3 @@
 <div class="simple-footer mt-5">
-    Copyright &copy; Kara Web Solution 2023
+    Copyright &copy; English Change Dev 2024
 </div>
